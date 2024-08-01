@@ -3,7 +3,7 @@
 
 ## I'm currently working on:
 1. Maintaining a Cordova/PHP/Ajax Project
-2. Working on a Next.js Personal Project
+2. Working on a Next.js/Typescript/PostgreSQL Personal Project
 
 ## I'm currently learning:
 1. CSS Animations Best Practices
