@@ -16,3 +16,4 @@
 4. Data Analysis with Python
 5. Algorithms Development with C++
 6. Data Structures with Java
+7. Mobile Development with Flutter
