@@ -1,7 +1,7 @@
 ### My short term goal is to be a Full-Stack Developer, ready to quickly pick up any new technology, ready to get a hold of any complex project and understand how it works to maintain it and develop it to my best ability
 ### Open for work, contact me [here](mailto:mohamad.tout.business@gmail.com)
 
-## I'm currently:
+## I'm currently working on:
 1. Maintaining a Cordova/PHP/Ajax Project
 2. Working on a Next.js Personal Project
 
