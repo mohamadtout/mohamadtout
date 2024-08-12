@@ -2,8 +2,9 @@
 ### Open for work, contact me [here](mailto:mohamad.tout.business@gmail.com)
 
 ## I'm currently working on:
-1. Maintaining a Cordova/PHP/Ajax Project
-2. Working on a Next.js/Typescript/PostgreSQL Personal Project
+1. Developing an MDM solution for Schools
+2. Maintaining a Cordova/PHP/Ajax Project
+3. Working on a Next.js/Typescript/PostgreSQL Personal Project
 
 ## I'm currently learning:
 1. CSS Animations Best Practices
